@@ -1,0 +1,8 @@
+Final Standing: 3858 
+Accepted: A,B,D
+Reflection: I passed pretest for C, but got WA for final test. I didn't consider one test case that wasn't
+in the pretest. In retrospect should have thought of a brute force approach after reducing test cases. Tried to 
+implement a non thought out approach. 
+Spend a lot of time on B even though I had the wrong idea, this was because I made an assumption which ended up being wrong. 
+For both A and D my speed was good these problems were the most beneficial for me. 
+Moving Foward: I will make sure to try to simplify to smaller subproblems that are easier to solve. Maybe was just over thinking some aspects of the contest. 
