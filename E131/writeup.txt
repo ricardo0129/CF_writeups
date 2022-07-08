@@ -1,0 +1,6 @@
+Final Standing: 1611
+Accepted: A,B,C
+Reflection: In terms of time one of my strongest performances ever. Solved all three problems within 25 mins. This gave me a really good ranking, I was very 
+close in finishing up my solution from D but was missing one last part to my greedy solution. I correctly modeled the problem as interval matching, but 
+my solution failed at some test cases. 
+Moving Foward: I will have to see what part of D I missed but overall a very strong effort and I hope to continue like this. 
