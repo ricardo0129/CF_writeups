@@ -1,0 +1,9 @@
+Final Standing: 2152
+Accepted: A,B,C
+Reflection: Contest got off to a good start made some very quick observations
+on A & B got them in under 10 mins. With C I took a little longer than I should
+have since I didn't read the constraints correctly which made me come up with
+a time complexity that wasn't needed. Problem D I was unable to get there was
+observations that I wasn't able to come up with. 
+Moving Foward: Solve more binary string problems since they are one of my
+downfalls. 
