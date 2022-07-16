@@ -1,0 +1,5 @@
+Final Standing: 7219
+Accepted: B
+Reflection: This was one of my worst performances in a long time. I wasn't able to solve A and spend a lot of time on C. I had a hard time
+finding an observation for both of the questions. After a while I found something with C but was getting wa constantly. 
+Moving Foward: I may have reached a burn out point for now I'll need to move my attention else where to see if I can recover.
