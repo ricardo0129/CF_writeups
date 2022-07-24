@@ -1,0 +1,5 @@
+Final Standing: 3263
+Accepted: A,B
+Reflection: Solved both A & B in a very quick manner. However my thinking was very clouded when trying C,D. After the contest
+later on in the day I tried solving these two and I came up with new and good solutions. 
+Moving Foward: I need to make sure to not get as nervous as I do since a lot of the questions I miss aren't out of my ball park. 

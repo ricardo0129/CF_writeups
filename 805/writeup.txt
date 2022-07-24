@@ -1,0 +1,7 @@
+Final Standing: 342
+Accepted: A,B,C,D,E,F
+Reflection: I had a very strong performance in this contest gaining enough rating to become an expert. 
+My thought process was very fast and organized and only took a bit long on question F. I had the right 
+thinking but over complicated the solution. 
+Moving Foward: Unfortunalty this was a division 3 which I should be doing very good in so this means
+I need a lot more division 2 practice to improve.
